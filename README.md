@@ -3,6 +3,11 @@
 Scripts funcionales para Linux y Linux_Server
 configuraciones de redes y demas.
 
+# CONF SERVIDOR DHCP
+# CONF JAIL_KIT
+# CONF LVM
+# CONF SERVIDOR SSH
+
 Ejm.
 
 
